@@ -41,7 +41,16 @@
 > 作者目前实现了群订阅stock咨询消息,以及关键词自动禁言,搜索图片功能.批量禁言最近发言的人或者批量撤回最近发言的人或者批量撤回某个人所有消息.
 
 
+### 相关截图
+![a](https://upload-images.jianshu.io/upload_images/2815884-ff9431698f516cc3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/2815884-0085d508a46ffd4b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image.png](https://upload-images.jianshu.io/upload_images/2815884-26d667d671542745.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![aa](https://upload-images.jianshu.io/upload_images/2815884-4abff3f0ed282442.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/500)
+
+
+
 # 宿主与机器人对接
+
 
 ## 监听机器人处理结果后的消息回调
 在此逻辑主要是实现机器人的命令,比如机器人说我需要禁言,那么你判断类型是否是禁言是禁言你就控制你的即时通讯软件进行禁言即可.
